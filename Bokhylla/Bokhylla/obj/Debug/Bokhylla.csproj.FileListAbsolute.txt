@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Bokhylla\Bokhylla\bin\Debug\Bokhylla.exe.config
+C:\Users\User\source\repos\Bokhylla\Bokhylla\bin\Debug\Bokhylla.exe
+C:\Users\User\source\repos\Bokhylla\Bokhylla\bin\Debug\Bokhylla.pdb
+C:\Users\User\source\repos\Bokhylla\Bokhylla\obj\Debug\Bokhylla.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Bokhylla\Bokhylla\obj\Debug\Bokhylla.bokhyllaForm.resources
+C:\Users\User\source\repos\Bokhylla\Bokhylla\obj\Debug\Bokhylla.Properties.Resources.resources
+C:\Users\User\source\repos\Bokhylla\Bokhylla\obj\Debug\Bokhylla.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Bokhylla\Bokhylla\obj\Debug\Bokhylla.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Bokhylla\Bokhylla\obj\Debug\Bokhylla.exe
+C:\Users\User\source\repos\Bokhylla\Bokhylla\obj\Debug\Bokhylla.pdb

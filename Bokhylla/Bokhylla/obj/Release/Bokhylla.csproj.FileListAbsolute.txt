@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Bokhylla\Bokhylla\bin\Release\Bokhylla.exe.config
+C:\Users\User\source\repos\Bokhylla\Bokhylla\bin\Release\Bokhylla.exe
+C:\Users\User\source\repos\Bokhylla\Bokhylla\bin\Release\Bokhylla.pdb
+C:\Users\User\source\repos\Bokhylla\Bokhylla\obj\Release\Bokhylla.bokhyllaForm.resources
+C:\Users\User\source\repos\Bokhylla\Bokhylla\obj\Release\Bokhylla.Properties.Resources.resources
+C:\Users\User\source\repos\Bokhylla\Bokhylla\obj\Release\Bokhylla.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Bokhylla\Bokhylla\obj\Release\Bokhylla.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Bokhylla\Bokhylla\obj\Release\Bokhylla.exe
+C:\Users\User\source\repos\Bokhylla\Bokhylla\obj\Release\Bokhylla.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Bokhylla\Centraldator\bin\Release\Centraldator.exe.config
+C:\Users\User\source\repos\Bokhylla\Centraldator\bin\Release\Centraldator.exe
+C:\Users\User\source\repos\Bokhylla\Centraldator\bin\Release\Centraldator.pdb
+C:\Users\User\source\repos\Bokhylla\Centraldator\obj\Release\Centraldator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Bokhylla\Centraldator\obj\Release\Centraldator.CentralDator.resources
+C:\Users\User\source\repos\Bokhylla\Centraldator\obj\Release\Centraldator.Properties.Resources.resources
+C:\Users\User\source\repos\Bokhylla\Centraldator\obj\Release\Centraldator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Bokhylla\Centraldator\obj\Release\Centraldator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Bokhylla\Centraldator\obj\Release\Centraldator.exe
+C:\Users\User\source\repos\Bokhylla\Centraldator\obj\Release\Centraldator.pdb
